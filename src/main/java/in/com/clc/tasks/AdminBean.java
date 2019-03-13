@@ -50,7 +50,7 @@ public class AdminBean {
 				+ "]";
 	}
 	 public void m1(int i){
-		 
+		 System.out.println("hello");
 	 }
 	
 	
