@@ -49,7 +49,9 @@ public class AdminBean {
 		return "EmpBean [empId=" + empId + ", empName=" + empName + ", empEmailId=" + empEmailId + ", mobNo=" + mobNo
 				+ "]";
 	}
-	
+	 public void m1(){
+		 
+	 }
 	
 	
 	
