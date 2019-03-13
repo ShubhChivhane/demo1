@@ -7,7 +7,7 @@ public class AdminBean {
 	private String empName;
 	private String empEmailId;
 	private String mobNo;
-	private String permission;
+	private String permissions;
 
 	public int getEmpId() {
 		return empId;
